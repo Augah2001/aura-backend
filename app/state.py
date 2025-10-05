@@ -1,5 +1,6 @@
 import threading
 
+
 def get_default_state():
     return {
         "is_running": False,
